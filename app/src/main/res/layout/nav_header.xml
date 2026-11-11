@@ -11,7 +11,7 @@
         android:id="@+id/imageViewHeader"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="/res/drawable/iconcook"
+        android:src="@drawable/iconcook"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
